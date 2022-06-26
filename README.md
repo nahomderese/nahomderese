@@ -8,9 +8,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahom-Derese&show_icons=true&theme=tokyonight&count_private=true)
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Nahom-Derese&theme=elegant&hide_border=true)](https://git.io/streak-stats)
-
 <!-- Markdown -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
