@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nahom Derese</h1>
-<h3 align="center">A passionate frontend developer from Ethiopia</h3>![image](https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f9.png?v8)
+<h3 align="center">A passionate frontend developer from Ethiopia <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f9.png?v8"></h3>
+
+<!-- ![image](https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f9.png?v8) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahom-derese&label=Profile%20views&color=0e75b6&style=flat" alt="nahom-derese" /> </p>
 
