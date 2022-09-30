@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **react**
 
-- 📫 How to reach me **[@nahomd](t.me/ditch_the_dogma)**
+- 📫 How to reach me **[@nahomd](https://t.me/ditch_the_dogma)**
 
 - ⚡ Fun fact **Math skills matter**
 
