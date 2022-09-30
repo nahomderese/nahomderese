@@ -7,9 +7,9 @@
 - 📫 How to reach me on Telegram : [@Nahom_D](t.me/ditch_the_dogma)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahom-Derese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nahom-Derese&show_icons=true&theme=radical)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nahomd)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nahom-Derese&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Markdown -->
 
