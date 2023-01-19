@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **Node**
+- 👯 I’m looking to collaborate on **Django**
 
 - 👨‍💻 All of my projects are available at [http://nahomd-portfolio.netlify.app](http://nahomd-portfolio.netlify.app)
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **DRF**
 
 - 📫 How to reach me **[@nahomd](https://t.me/ditch_the_dogma)**
 
