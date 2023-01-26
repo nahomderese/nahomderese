@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Django**
 
-- 👨‍💻 All of my projects are available at [http://nahomd-portfolio.netlify.app](http://nahomd-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://nahomderese.me](https://nahomderese.me)
 
 - 💬 Ask me about **DRF**
 
