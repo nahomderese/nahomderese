@@ -5,15 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahom-derese&label=Profile%20views&color=0e75b6&style=flat" alt="nahom-derese" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Cloud Architecture**
 
-- 👯 I’m looking to collaborate on **Django**
+- 👯 I’m looking to collaborate on **Flutter**
 
-- 👨‍💻 All of my projects are available at [https://nahomderese.me](https://nahomderese.me)
+- 👨‍💻 All of my projects are available at (Currently working on Portfolio)
 
-- 💬 Ask me about **DRF**
+- 💬 Ask me about **Flutter**
 
-- 📫 How to reach me **[@nahomd](https://t.me/ditch_the_dogma)**
+- 📫 How to reach me **[@nahomderese](https://t.me/nahomderese)**
 
 - ⚡ Fun fact **Math skills matter**
 
