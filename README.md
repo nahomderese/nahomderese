@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahom-derese&label=Profile%20views&color=0e75b6&style=flat" alt="nahom-derese" /> </p>
 
-- 🌱 I’m currently learning **Cloud Architecture**
+- 🌱 I’m currently learning **Go lang**
 
-- 👯 I’m looking to collaborate on **Flutter**
+- 👯 I’m looking to collaborate on **Svelte Kit**
 
 - 👨‍💻 All of my projects are available at (Currently working on Portfolio)
 
