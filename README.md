@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nahom Derese</h1>
-<h3 align="center">A passionate software developer</h3>
+<h3 align="center">A Software Engineer</h3>
 
 <!-- ![image](https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f9.png?v8) -->
 
@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Svelte Kit**
 
-- 👨‍💻 All of my projects are available at (Currently working on Portfolio)
+- 👨‍💻 All of my projects are available at **[www.nahomderese.live](https://www.nahomderese.live)**
 
 - 💬 Ask me about **Flutter**
 
