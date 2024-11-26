@@ -3,7 +3,7 @@
 
 <!-- ![image](https://github.githubassets.com/images/icons/emoji/unicode/1f1ea-1f1f9.png?v8) -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahom-derese&label=Profile%20views&color=0e75b6&style=flat" alt="nahom-derese" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nahomderese&label=Profile%20views&color=0e75b6&style=flat" alt="nahom-derese" /> </p>
 
 - 🌱 I’m currently learning **Go lang**
 
