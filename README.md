@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nahomderese&label=Profile%20views&color=0e75b6&style=flat" alt="nahom-derese" /> </p>
 
-- 🌱 I’m currently learning **Go lang**
+- 🌱 I’m currently expanding knowledge on **AWS - Cloud**
 
-- 👯 I’m looking to collaborate on **Svelte Kit**
+- 👯 I’m looking to collaborate on **Svelte Kit, Flutter, Go**
 
 - 👨‍💻 All of my projects are available at **[www.nahomderese.live](https://www.nahomderese.live)**
 
