@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Svelte Kit, Flutter, Go**
 
-- 👨‍💻 All of my projects are available at **[www.nahomderese.live](https://www.nahomderese.live)**
+- 👨‍💻 All of my projects are available at **[www.nahomderese.me](https://www.nahomderese.me)**
 
 - 💬 Ask me about **Flutter**
 
